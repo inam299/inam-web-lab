@@ -7,8 +7,15 @@
     <body bgcolor="black">
         <body text="white">
             <img src= "inam.jpg">
+            <ul type="square">
+                <li> <b>  azad kashmir </b> </li>
+                <li> <i> azad kashmir1 </i> </li>
+                <li> azad kashmir2 </li>
+                <li> azad kashmir3 </li>
+                <li> azad kashmir4 </li>
+                <li> azad kashmir5 </li>
 
-
+            </ul>
 <h1>inam website</h1>
 <h1>heading 1</h1>
 <h1>heading 2</h1>
@@ -19,6 +26,8 @@
 <h1>heading 7</h1>
 <a href="https://www.google.com/">google par jany k lea click krin</a>
     <p>This is a paragraph.</p>
+    <hr color="blue" size="4" width="20%">
+    
 
 </body>
 </html>
